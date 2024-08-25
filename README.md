@@ -1,3 +1,5 @@
+# Meelaty
+
 # Penyisihan Objective Quest Dataquest Part of AIRNOLOGY 3.0
 
 Di era digital saat ini, keamanan siber menjadi salah satu prioritas utama bagi perusahaan yang mengelola situs web dengan lalu lintas tinggi. Semakin meningkatnya jumlah pengguna dan perangkat yang terhubung ke internet, serta kompleksitas serangan siber yang terus berkembang, kebutuhan untuk memantau dan melindungi jaringan menjadi semakin krusial. Setiap hari, perusahaan-perusahaan besar harus menghadapi berbagai macam jenis traffic yang masuk dan keluar dari server mereka, mulai dari aktivitas pengguna yang sah hingga potensi ancaman seperti serangan dan aktivitas berbahaya lainnya.
