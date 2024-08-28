@@ -18,3 +18,6 @@ Jenis-jenis Traffic yang Harus Diprediksi:
 - Bruteforce - Upaya penyerangan dengan mencoba berbagai kombinasi kata sandi untuk mendapatkan akses.
 - XMRIGCC CryptoMiner - Aktivitas terkait dengan penambangan cryptocurrency secara tersembunyi.
 - Bruteforce-XML - Serangan brute force yang menargetkan aplikasi berbasis XML.
+
+## Data
+https://drive.google.com/drive/folders/1OiMn16VXibbp0eSbjoOSRlSzTZYPP-cc
